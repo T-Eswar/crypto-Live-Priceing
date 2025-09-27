@@ -1,5 +1,5 @@
 # crypto-Live-Priceing
-#### CryptoPlace is a cryptocurrency tracker web app where users can search and explore live crypto prices, market data, and trends
+#### CryptoLPA is a cryptocurrency tracker web app where users can search and explore live crypto prices, market data, and trends
 #### It’s designed with a clean UI, responsive layout, and real-time API data for a smooth user experience.
 
 ### Key Highlights
